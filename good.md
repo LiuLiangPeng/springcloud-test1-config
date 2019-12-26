@@ -1,11 +1,11 @@
 - # 内容
 
-  - [UI组件](https://github.com/kakXlw/springcloud-test1-config#UI%E7%BB%84%E4%BB%B6)
-  - [开发框架](https://github.com/kakXlw/springcloud-test1-config#%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6)
-  - [实用库](https://github.com/opendigg/awesome-github-vue#%E5%AE%9E%E7%94%A8%E5%BA%93)
-  - [服务端](https://github.com/opendigg/awesome-github-vue#%E6%9C%8D%E5%8A%A1%E7%AB%AF)
-  - [辅助工具](https://github.com/opendigg/awesome-github-vue#%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
-  - [应用实例](https://github.com/opendigg/awesome-github-vue#%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B)
+  - [UI组件](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#UI%E7%BB%84%E4%BB%B6)
+  - [开发框架](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6)
+  - [实用库](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#%E5%AE%9E%E7%94%A8%E5%BA%93)
+  - [服务端](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#%E6%9C%8D%E5%8A%A1%E7%AB%AF)
+  - [辅助工具](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
+  - [应用实例](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B)
   - [Demo示例](https://github.com/kakXlw/springcloud-test1-config/blob/master/good.md#Demo%E7%A4%BA%E4%BE%8B)
 
   ## UI组件
