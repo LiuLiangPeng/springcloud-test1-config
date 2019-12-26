@@ -6,7 +6,7 @@
   - [服务端](https://github.com/opendigg/awesome-github-vue#%E6%9C%8D%E5%8A%A1%E7%AB%AF)
   - [辅助工具](https://github.com/opendigg/awesome-github-vue#%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
   - [应用实例](https://github.com/opendigg/awesome-github-vue#%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B)
-  - [Demo示例](https://github.com/kakXlw/springcloud-test1-config#Demo%E7%A4%BA%E4%BE%8B)
+  - [Demo示例](https://github.com/kakXlw/springcloud-test1-config/good.md#Demo%E7%A4%BA%E4%BE%8B)
 
   ## UI组件
 
